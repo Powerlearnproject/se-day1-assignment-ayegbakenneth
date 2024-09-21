@@ -31,7 +31,7 @@ The differences between a sotware developer, quality assurance engineer and a pr
 
 3, A Project Manager oversees the all development of a software product.
 
-Integrated Development Environment(IDEs) is very important in the software development process because it is the environment were software products are written and developed.An example of it is the visual studio code editor.
+Integrated Development Environment(IDEs) is very important in the software development process because it is the environment were software products are written and developed. An example of it is the visual studio code editor.
 
 Version Control System(VCS) helps in collaborating with other software developers and help in tracking changes made to our codebase. An example is Git and Github.
 
